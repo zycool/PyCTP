@@ -1,0 +1,4 @@
+*.py linguist-language=Python
+*.cpp linguist-language=Python
+*.h linguist-language=Python
+*.xml linguist-language=Python
